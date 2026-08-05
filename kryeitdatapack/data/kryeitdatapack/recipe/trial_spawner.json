@@ -1,0 +1,44 @@
+{
+  "type": "create:item_application",
+  "ingredients": [
+    {
+      "item": "minecraft:spawner"
+    },
+    {
+      "item": "minecraft:heavy_core"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:spawner"
+    },
+    {
+      "chance": 0.125,
+      "components": {
+        "minecraft:block_entity_data": {
+          "id": "minecraft:trial_spawner",
+          "spawn_data": {
+            "entity": {
+              "id": "minecraft:breeze"
+            }
+          }
+        }
+      },
+      "id": "minecraft:trial_spawner"
+    },
+    {
+      "chance": 0.125,
+      "components": {
+        "minecraft:block_entity_data": {
+          "id": "minecraft:trial_spawner",
+          "spawn_data": {
+            "entity": {
+              "id": "minecraft:bogged"
+            }
+          }
+        }
+      },
+      "id": "minecraft:trial_spawner"
+    }
+  ]
+}

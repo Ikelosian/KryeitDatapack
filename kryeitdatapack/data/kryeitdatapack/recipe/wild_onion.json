@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "farmersdelight:onion"
+    },
+    {
+      "item": "farmersdelight:rich_soil"
+    }
+  ],
+  "results": [
+    {
+      "id": "farmersdelight:wild_onions"
+    }
+  ]
+}

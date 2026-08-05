@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "farmersdelight:rich_soil"
+    }
+  ],
+  "results": [
+    {
+      "id": "farmersdelight:wild_beetroots"
+    }
+  ]
+}

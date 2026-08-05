@@ -1,0 +1,41 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "tag": "c:crops/cabbage"
+        },
+        {
+          "tag": "c:foods/cabbage"
+        },
+        {
+          "tag": "c:foods/leafy_green"
+        }
+      ]
+    },
+    {
+      "type": "neoforge:compound",
+      "children": [
+        {
+          "tag": "c:foods/raw_meat"
+        },
+        {
+          "tag": "c:foods/safe_raw_fish"
+        },
+        {
+          "tag": "c:foods/vegetable"
+        },
+        {
+          "tag": "c:mushrooms"
+        }
+      ]
+    }
+  ],
+  "results": [
+    {
+      "id": "farmersdelight:cabbage_rolls"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "create:powdered_obsidian",
+      "amount": 3
+    },
+    {
+      "item": "create:polished_rose_quartz",
+      "amount": 1
+    },
+    {
+      "item": "minecraft:glowstone",
+      "amount": 3
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "id": "create:chromatic_compound"
+    }
+  ],
+  "heatRequirement": "superheated"
+}

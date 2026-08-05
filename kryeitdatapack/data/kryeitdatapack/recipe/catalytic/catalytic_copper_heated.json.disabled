@@ -1,0 +1,30 @@
+{
+  "type": "create:mixing",
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_copper"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    }
+  ],
+
+  "results": [
+    {
+      "item": "create:copper_nugget",
+      "count": 12
+    },
+    {
+      "item": "create:sturdy_sheet",
+      "chance": 0.999
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createaddition:zinc_sheet"
+    }
+  ],
+  "result": {
+    "id": "createdeco:zinc_sheet",
+    "count": 1
+  }
+}

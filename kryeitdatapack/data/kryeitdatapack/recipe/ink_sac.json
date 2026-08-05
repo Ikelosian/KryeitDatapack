@@ -1,0 +1,16 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:black_dye"
+    },
+    {
+      "item": "farmersdelight:cabbage_leaf"
+    }
+  ],
+  "results": [
+    {
+      "id": "minecraft:ink_sac"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "create:deploying",
+  "ingredients": [
+    {
+      "item": "farmersdelight:cabbage"
+    },
+    {
+      "item": "farmersdelight:rich_soil"
+    }
+  ],
+  "results": [
+    {
+      "id": "farmersdelight:wild_cabbages"
+    }
+  ]
+}

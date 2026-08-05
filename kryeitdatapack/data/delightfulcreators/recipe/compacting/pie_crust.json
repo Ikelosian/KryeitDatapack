@@ -1,0 +1,24 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "tag": "c:crops/wheat"
+    },
+    {
+      "type": "neoforge:tag",
+      "amount": 250,
+      "tag": "c:milk"
+    }
+  ],
+  "results": [
+    {
+      "id": "farmersdelight:pie_crust"
+    }
+  ]
+}

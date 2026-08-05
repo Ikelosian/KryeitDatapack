@@ -1,0 +1,24 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "minecraft:baked_potato"
+    },
+    {
+      "item": "minecraft:rabbit"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "tag": "c:mushrooms"
+    }
+  ],
+  "results": [
+    {
+      "amount": 333,
+      "id": "delightfulcreators:rabbit_stew"
+    }
+  ]
+}

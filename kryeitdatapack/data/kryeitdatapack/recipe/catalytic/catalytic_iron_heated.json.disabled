@@ -1,0 +1,29 @@
+{
+  "heatRequirement": "heated",
+  "ingredients": [
+    {
+      "item": "create:crushed_raw_iron"
+    },
+    {
+      "fluid": "minecraft:water",
+      "amount": 1000
+    },
+    {
+      "item": "minecraft:quartz"
+    },
+    {
+      "item": "create:sturdy_sheet"
+    }
+  ],
+  "type": "create:mixing",
+  "results": [
+    {
+      "count": 12,
+      "item": "minecraft:iron_nugget"
+    },
+    {
+      "item": "create:sturdy_sheet",
+      "chance": 0.9995
+    }
+  ]
+}
