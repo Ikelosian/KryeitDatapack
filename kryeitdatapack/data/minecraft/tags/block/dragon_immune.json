@@ -1,0 +1,12 @@
+{
+  "values": [
+        "minecraft:purpur_block",
+        "minecraft:end_stone_bricks",
+        "minecraft:deepslate_tiles",
+        "minecraft:purpur_stairs",
+        "minecraft:end_stone_brick_stairs",
+        "minecraft:deepslate_tile_stairs",
+        "minecraft:oak_trapdoor",
+        "minecraft:torch"
+  ]
+}
